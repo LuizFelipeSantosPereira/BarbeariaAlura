@@ -110,7 +110,7 @@ form label, form legend{
 }
 .enviar:hover{
     background: #da7903;
-    transform: scale(1.2);
+    transform: scale(1.05);
 }
 table{
     margin: 20px 0 40px 0;
